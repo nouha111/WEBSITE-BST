@@ -1,0 +1,1 @@
+.bsc-admin-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}.bsc-media-field{padding:16px;border:1px solid #dcdcde;background:#f6f7f7}.bsc-media-field img{display:block;max-width:220px;max-height:110px;object-fit:contain;margin-bottom:12px}.bsc-media-field .button{margin-right:6px}@media(max-width:782px){.bsc-admin-grid{grid-template-columns:1fr}}
